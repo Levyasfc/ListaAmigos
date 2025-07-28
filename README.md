@@ -1,4 +1,4 @@
 # ListaAmigos
 
-<h2> Este proeyecto es una pequeña practica de lo que se puede hacer con los servicion por WCF </h2>
-<h2> EN este caso se trata de un servicio de LISTA DE AMIGOS, es simple pero eficiente</h2>
+Este proyecto es una pequeña practica de lo que se puede hacer con los servicios por WCF (Windows Comunication Foundation)
+En este caso se trata de un servicio de LISTA DE AMIGOS, es simple pero eficiente en caso de que sea solo necesario adaptarla en alguna aplicacion con interfaces
